@@ -46,7 +46,7 @@ All hyperparameters can be found in ./lib/param.hpp.
 
 ## Results
 
-![alt text](https://github.com/junyoung-sim/portfolio/blob/main/res/result.png)
+![alt text](https://github.com/junyoung-sim/deep-qf/blob/main/portfolio/res/result.png)
 
 Note that the results above are merely experimental as the model's convergence and behavior may vary by the random seed assigned for simulating an environment. Further hyperparameter testing and more rigorous optimization objectives would be needed for practical applications in real market environments.
 
