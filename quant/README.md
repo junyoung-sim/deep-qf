@@ -39,7 +39,7 @@ E(R) = annualized return, SD(R) = return standard deviation, SR = sharpe ratio, 
 
 Test Result Output (AAPL)
 
-![alt text](https://github.com/junyoung-sim/quant/blob/master/res/test/AAPL.png?raw=true)
+![alt text](https://github.com/junyoung-sim/deep-qf/blob/main/quant/res/test/AAPL.png?raw=true)
 
 **Run**:
 ~~~
@@ -48,4 +48,4 @@ Test Result Output (AAPL)
 
 Up-To-Date Output (AAPL)
 
-![alt text](https://github.com/junyoung-sim/quant/blob/master/res/AAPL.png?raw=true)
+![alt text](https://github.com/junyoung-sim/deep-qf/blob/main/quant/res/AAPL.png?raw=true)
